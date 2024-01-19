@@ -1,0 +1,20 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Explicitly declare text files to prevent any CRLF/LF issues across platforms
+*.py text
+*.md text
+*.txt text
+*.csv text
+
+# Handle line endings automatically for files detected as text
+# and leave binary files untouched
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# Custom for Python
+*.py diff=python
+
+# Linguist settings
+*.py linguist-language=Python
