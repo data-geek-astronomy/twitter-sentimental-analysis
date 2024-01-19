@@ -39,7 +39,7 @@ setup(
     install_requires=['tweepy', 'textblob', 'matplotlib'],
 
     project_urls={
-        'Bug Reports': 'https://github.com/YourGitHubUsername/twitter-sentimental-analysis',
-        'Source': 'https://github.com/YourGitHubUsername/twitter-sentimental-analysis',
+        'Bug Reports': 'https://github.com/data-geek-astronomy/twitter-sentimental-analysis',
+        'Source': 'https://github.com/data-geek-astronomy/twitter-sentimental-analysis',
     },
 )
