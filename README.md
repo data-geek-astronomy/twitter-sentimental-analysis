@@ -33,9 +33,9 @@ Once you have created an app on Twitter and installed all the dependencies by ru
 * tweeps
 * text blob
 * matplotlib
-*seaborn
-*pandas
-*
+* seaborn
+* pandas
+* numpy
 ## Contributing
 
 1. Fork it
